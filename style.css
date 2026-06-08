@@ -141,3 +141,40 @@ padding: 16px 150px;
     font-weight: 900;
     align-self: flex-end;
 }
+
+.action-content{
+    padding: 16px 150px;
+}
+
+.action-container-content{
+    margin-top: 30px;
+    display: flex;
+    background-color: #3882F6;
+    border-radius: 12px;
+    padding: 16px;
+    gap: 30px;
+    font-size: 18px;
+    color: #E5E7EB;
+    gap: 16px;
+}
+
+.action-large-content{
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.action-button-content{
+    background-color: #3882F6;
+    border-radius: 12px;
+    color: #E5E7EB;
+    padding:6px 24px;
+    flex-shrink: 0;
+    align-self: center;
+    }
+
+.footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding:30px
+}
