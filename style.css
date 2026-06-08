@@ -87,6 +87,7 @@ padding: 16px 150px;
     flex-direction: column;
     align-items: center;
     margin-top: 60px;
+    
 }
 
 .info-content{
@@ -119,5 +120,10 @@ padding: 16px 150px;
     border: 4px solid #3882F6;
     width: 100%;
     height: 200px;
+}
 
+.quote-content{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
 }
